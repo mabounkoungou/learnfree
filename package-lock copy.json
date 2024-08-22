@@ -1,12 +1,12 @@
 {
-  "name": "Learn-Free",
-  "version": "1.5.0",
+  "name": "nahhas-lms",
+  "version": "0.1.0",
   "lockfileVersion": 3,
   "requires": true,
   "packages": {
     "": {
-      "name": "Learn-Free",
-      "version": "1.5.0",
+      "name": "nahhas-lms",
+      "version": "0.1.0",
       "hasInstallScript": true,
       "dependencies": {
         "@bentogrid/core": "^1.1.1",
