@@ -179,12 +179,9 @@ const page = () => {
             "text-foreground underline hover:no-underline hover:bg-accent flex gap-2 items-center"
           )}
         >
-          <span>See All</span>
-          <FiExternalLink />
+          
         </Link>
-      </section>
-      <BentoGrid /> 
-    </div>
+      </section>    </div>
   );
 };
 
