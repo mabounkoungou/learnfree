@@ -80,7 +80,7 @@ const CourseCard = ({
             <div className="flex flex-col ml-auto gap-1">
               <p className="text-muted-foreground font-light text-sm ml-auto flex gap-0">
                 <BiMoneyWithdraw className={"h-5 w-5 mr-1"} />
-                {price === 0 ? "FREE" : `${price} TL`}
+                {price === 0 ? "Free" : `${price} TL`}
               </p>
               <p className="text-muted-foreground font-light text-sm ml-auto flex">
                 <Video className={"h-5 w-5 mr-1"} />

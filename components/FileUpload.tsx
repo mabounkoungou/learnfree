@@ -21,7 +21,7 @@ const FileUpload = ({onChange}: FileUploadProps) => {
 
   return (
     <CldUploadWidget
-      uploadPreset="scnqv8gr"
+      uploadPreset="LearnFree	"
       options={{ sources: ["local", "url", "unsplash"] }}
       onUpload={handleUpload}
     >

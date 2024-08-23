@@ -1,4 +1,4 @@
-# Nahhas LMS Website
+#  LearnFree Website
 
 This is a Learning Management System (LMS) website built with Next.js. The purpose of this project is to provide a comprehensive platform for online education, tailored for the Syrian community.
 
@@ -56,7 +56,7 @@ Make sure you have the following installed:
 To clone the project, run the following command in your terminal:
 
 ```bash
-git clone https://github.com/AbdulrahmanNahhas/nahhas-lms.git
+git clone https://github.com.git
 ```
 
 ### Navigate to the Project Directory
@@ -129,5 +129,3 @@ Contributions are welcome! Please fork the repository and create a pull request 
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

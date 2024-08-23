@@ -18,18 +18,18 @@ const Sidebar = () => {
       <div className="flex p-4 justify-between items-center">
         <h1 className="font-bold w-auto h-8 flex items-center justify-center gap-3">
           <div className="!h-8 p-1 !w-8 !aspect-square bg-primary rounded-sm text-lg lg:text-xl flex items-center justify-center !text-background">
-            N
+            LF
           </div>
           <div className="flex text-lg md:text-xl items-center gap-1">
-            <span>Nahhas</span>
-            <span className="text-primary">LMS</span>
+            <span>Learn</span>
+            <span className="text-primary">Free</span>
           </div>
         </h1>
         <Badge
           variant="secondary"
-          className="bg-accent hover:bg-accent cursor-default rounded-[6px] p-1 h-min py-0 tracking-widest font-medium hidden lg:block"
+          className="bg-accent-primary hover:bg-accent cursor-default rounded-[6px] p-1 h-min py-0 tracking-widest font-medium hidden lg:block"
         >
-          v1.5
+          2024
         </Badge>
       </div>
       <SidebarRoutes />
